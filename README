@@ -1,3 +1,18 @@
+Lawrence's Reprap Controller
+
+License: CC-BY-SA
+
+Big differences from Teensylu:
+* Wireless headers (NRF24L01, Bluetooth)
+* MicroSD card
+* USB Mini5
+* Another PS4- power header
+* New layout.  Breakout headers are different
+* EStops are 5v inverted only
+
+
+Derived from Steph's Teensylu, Adafruit's Atmega32u4bb
+
 http://reprap.org/wiki/Teensylu
 
 Working contains the main working folder, no version numbers are appended to the filename.
