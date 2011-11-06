@@ -9,7 +9,14 @@ Big differences from Teensylu:
 * Another PS4- power header
 * New layout.  Breakout headers are different
 * EStops are 5v inverted only
+* Designed for being put into a metal case.  Right angle reset button.
+* Crystal for more accurate USB communications
+* More SMT components/options for easier assembly
 
+
+Extras:
+* Powerswitch assembly board
+* Atmega32u4 daughter board for host usage with NRF24L01 header
 
 Derived from Steph's Teensylu, Adafruit's Atmega32u4bb
 
